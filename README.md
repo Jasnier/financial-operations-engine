@@ -2,6 +2,8 @@
 
 Distributed financial operations engine with transaction control, dynamic rates, and master ledger consolidation.
 
+![System Architecture](docs/diagrama.png)
+
 ---
 
 ## 🧠 Overview
