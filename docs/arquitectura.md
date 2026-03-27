@@ -6,6 +6,7 @@ The system is designed as a distributed financial operations engine where multip
 
 It ensures data consistency, controlled execution, and auditability of financial movements.
 
+![System Architecture](docs/diagrama.png)
 ---
 
 ## 🔄 High-Level Flow
